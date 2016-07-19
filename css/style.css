@@ -1,0 +1,26 @@
+header.row{
+  background: url("https://s.gr-assets.com/assets/home/masthead_background.jpg");
+  height: 357px;
+  width: 100%;
+}
+#hola{
+  color:red;
+}
+.fa-facebook-official{
+  color:#3D5A98;
+}
+#logo{
+  float: left;
+}
+ul li{
+  list-style: none;
+  display: inline-block;;
+  float: right;
+  vertical-align: middle;
+}
+.container{
+  padding-top: 20px;
+}
+.meet{
+  margin-top: 40px;
+}
